@@ -2,7 +2,7 @@
 
 Code to reproduce the simulation results in:
 
-> Hossein SR\*, Shao H\*, Warrington SJ, Strutt H, Fletcher AG, Strutt D (2026). Polarised recruitment and diffusion of Casein Kinase Iε couples local protein clustering to cell-scale planar polarity in the *Drosophila* wing. *In submission.*
+> Hossein SR\*, Shao H\*, Warrington SJ\*, Strutt H, Fletcher AG, Strutt D (2026). Polarised recruitment and diffusion of Casein Kinase Iε couples local protein clustering to cell-scale planar polarity in the *Drosophila* wing. *In submission.*
 
 The script `regenerate_figures.py` solves the two reaction-diffusion models described in the STAR Methods, the mutual destabilisation model and the CKIε model. The models are solved on a periodic one-dimensional domain representing the perimeter of a cell facing a neighbour. The script generates every simulation-derived panel in the paper.
 
